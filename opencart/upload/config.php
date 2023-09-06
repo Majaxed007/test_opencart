@@ -1,5 +1,4 @@
 <?php
-## Проверка изменений"
 // APPLICATION
 define('APPLICATION', 'Catalog');
 
